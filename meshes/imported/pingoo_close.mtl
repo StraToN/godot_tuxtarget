@@ -1,0 +1,20 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl entity_pingoo_close.shape_mat0
+Ns 41.176471
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023529 0.023529 0.023529
+Ni 1.000000
+d 0.000000
+illum 2
+
+newmtl entity_pingoo_close.shape_mat1
+Ns 41.176471
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.023529 0.023529 0.023529
+Ni 1.000000
+d 0.000000
+illum 2
